@@ -8,9 +8,6 @@ A production-ready, local AI automation system designed for US/EU e-commerce and
 Look at how our system processes a standard US return ticket autonomously based on local knowledge bases without any cloud API data leaks:
 
 *   **Company Knowledge Base:** [Verified Demo Logic](https://drive.google.com/file/d/1tMH2_O2m08HtVSYe8vL4vHMmGYCj1rKM/view?usp=sharing)
-*   **Customer Query:** *"Hi! Can I return my shoes? I bought them 2 weeks ago, but they don't fit. Do I need to pay for shipping?"*
-*   **Autonomous AI Response:** *"Please ensure the shoes are unworn and in their original packaging before sending them back. Once we receive your returned item, our team will process a refund within 5-7 business days. Shipping for your return is completely FREE."*
-
 ## 🛠️ Tech Stack & Architecture
 - **Core:** Python 3.10+
 - **LLM Engine:** Ollama / Llama 3 (8B) running locally with 0% corporate data leak risk
